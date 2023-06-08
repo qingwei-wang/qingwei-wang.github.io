@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Reading Notes_Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers</title>
+      <link href="/2023/06/08/blog1/"/>
+      <url>/2023/06/08/blog1/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Feature-Shrinkage-Pyramid-for-Camouflaged-Object-Detection-with-Transformers"><a href="#Feature-Shrinkage-Pyramid-for-Camouflaged-Object-Detection-with-Transformers" class="headerlink" title="Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers"></a>Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers</h1><h2 id="Motivation"><a href="#Motivation" class="headerlink" title="Motivation"></a>Motivation</h2><p>They found that Vision Transformers have two limitations in Camouflaged Object Detection. </p><ol><li>Less effective locality</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Reading_Notes </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Reading_Notes COD </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/06/07/hello-world/"/>
       <url>/2023/06/07/hello-world/</url>
