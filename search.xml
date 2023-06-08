@@ -8,13 +8,19 @@
       <link href="/2023/06/07/my-new-post/"/>
       <url>/2023/06/07/my-new-post/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="这是我的测试"><a href="#这是我的测试" class="headerlink" title="这是我的测试"></a><strong>这是我的测试</strong></h1><p>这里是我的测试</p>]]></content>
       
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
       
       
         <tags>
             
-            <tag> 测试一下 </tag>
+            <tag> test </tag>
             
         </tags>
       
