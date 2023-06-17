@@ -290,6 +290,53 @@
       </td>
     </tr>
 
+    <tr onmouseout="medgansurvey_stop()" onmouseover="medgansurvey_start()">
+      <td style="padding:20px;width:25%;vertical-align:middle">
+        <div class="one">
+          <!-- <div class="two" id='graphcore_image'>
+            <video  width=100% height=100% muted autoplay loop>
+          <source src="images/bakedsdf_after.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+          </video>
+        </div> -->
+          <img src='images/medgansurvey.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function medgansurvey_start() {
+            document.getElementById('medgansurvey_image').style.opacity = "1";
+          }
+
+          function medgansurvey_stop() {
+            document.getElementById('medgansurvey_image').style.opacity = "0";
+          }
+          medgansurvey_stop()
+        </script>
+      </td>
+      <td style="padding:20px;width:75%;vertical-align:middle">
+        <a href="https://bakedsdf.github.io/">
+          <papertitle>Cross-Modality Neuroimage Synthesis: A Survey</papertitle>
+        </a>
+        <br>
+        <!-- <a href="https://lioryariv.github.io/">Lior Yariv*</a>, -->
+        <strong>Guoyang Xie*</strong>, 
+        Jinbao Wang*,
+        Yawen Huang*,
+        Jiayi Lyu,
+        Feng Zheng,
+        Yaochu Jin
+        <br>
+        <em>ACM Computing Survey</em>, 2023
+        <br>
+        <!-- / -->
+        <!-- <a href="https://www.youtube.com/watch?v=fThKXZ6uDTk">video</a> -->
+        <a href="https://arxiv.org/pdf/2202.06997.pdf">arXiv</a>
+        <p></p>
+        <p>
+          We provide a comprehensive review of cross-modality synthesis for neuroimages, from the perspectives of weakly-supervised and unsupervised settings, loss functions, evaluation metrics, ranges of modality, datasets, and the synthesis-based downstream applications.     
+        </p>
+      </td>
+    </tr>
+
     <tr onmouseout="fedmedgan_stop()" onmouseover="fedmedgan_start()">
       <td style="padding:20px;width:25%;vertical-align:middle">
         <div class="one">
@@ -302,14 +349,14 @@
           <img src='images/fedmedgan.png' width="160">
         </div>
         <script type="text/javascript">
-          function iadsurvey_start() {
+          function fedmedgan_start() {
             document.getElementById('fedmedgan_image').style.opacity = "1";
           }
 
-          function imiad_stop() {
+          function fedmedgan_stop() {
             document.getElementById('fedmedgan_image').style.opacity = "0";
           }
-          imiad_stop()
+          fedmedgan_stop()
         </script>
       </td>
       <td style="padding:20px;width:75%;vertical-align:middle">
@@ -323,6 +370,7 @@
         Yawen Huang*,
         Jiayi Lyu,
         Feng Zheng,
+        Yefeng Zheng,
         Yaochu Jin
         <br>
         <em>Neurocomputing</em>, 2023
