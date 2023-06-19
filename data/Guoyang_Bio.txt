@@ -1,0 +1,6 @@
+I'm Guoyang Xie, and I completed my PhD studies at the University of Surrey's NICE group at the end of September. 
+My supervisor: Yaochu Jin, a member of the European Academy of Sciences, an IEEE Fellow, the president of the IEEE Computational Intelligence Community, and a Humboldt Professor of Artificial Intelligence at Bielefeld University. 
+My PhD study focuses on the use of artificial intelligence in industrial production or manufacture, including energy, communication, manufacturing, finance, etc. 
+My subject is Deep Learning-based Automatic Industrial Image Anomaly Detection. 
+I now publish in 12 prestigious conferences and publications (3 CCF-A, 1 CCF-B, and 4 JCR1). 
+Prior to obtaining my Ph.D., I worked at the GAC Research Institute and Baidu, where I developed algorithms for autonomous driving perception
